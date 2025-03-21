@@ -4,7 +4,7 @@
 
 **DSCEngine**    is a Solidity-based decentralized stablecoin system designed to maintain a 1:1 peg with the U.S. dollar using exogenous collateral. This contract implements a minimalistic yet robust stablecoin model with the following features:
 
-* **Dollar Pegged**: Maintains $1 peg per token.
+* **Dollar Pegged**: Maintains $1 peg per token
 
 * **Exogenous Collateral**: Uses external assets like WETH and WBTC as collateral.
 
